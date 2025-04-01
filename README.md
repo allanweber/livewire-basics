@@ -2,6 +2,12 @@
 
 This is a sample project to show how to use Livewire in a Laravel project.
 
+## New Laravel project
+
+```bash
+laravel new example-app
+```
+
 ## Installation
 
 ```bash
